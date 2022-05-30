@@ -1,5 +1,5 @@
 ---
-title:YimeSeries Drcomposition
+title:TimeSeries Drcomposition
 description Course Content
 ---
 
