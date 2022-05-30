@@ -1,5 +1,5 @@
 ---
-title : Welcome to Ethan Chang's page 
+title :I am Ethan Chang
 description: This is a place sharing my learning path 
 ---
 
