@@ -1,5 +1,6 @@
 ---
-layout: default
+title: New Title
+description: The titles and sescriptions can be changed
 ---
 
 
