@@ -1,6 +1,6 @@
 ---
-title : New title 
-description: The titles and description can be changed
+title : Welcome to Ethan Chang's page 
+description: This is a place sharing my learning path 
 ---
 
 ![My Picture](Ethan.jpg)
